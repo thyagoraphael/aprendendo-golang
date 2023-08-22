@@ -2,11 +2,11 @@
 
 Repositório com diversos conteúdos relevantes para aprender sobre a linguagem Go | Golang.
 
-
 ## Site da linguagem
 
 - [Site da linguagem Go](https://go.dev/)
 - [Site GolangBR](http://www.golangbr.org/)
+  
 ## Playgrounds
 
 - [The Go Playground](https://go.dev/play/)
@@ -17,6 +17,7 @@ Repositório com diversos conteúdos relevantes para aprender sobre a linguagem 
 - [Go Bootcamp - jefftoni](https://gobootcamp.jeffotoni.com/)
 - [Go by Example](https://gobyexample.com/)
 - [Curso de introdução a programação Go com base em testes](https://larien.gitbook.io/aprenda-go-com-testes/)
+  
 ## Tutoriais
 
 ## Blogs
@@ -28,6 +29,7 @@ Repositório com diversos conteúdos relevantes para aprender sobre a linguagem 
 
 - [Dando o Primeiro passo na programação com Go](https://thomacelli.medium.com/1-dando-o-primeiro-passso-na-programa%C3%A7%C3%A3o-com-go-4f2a795c26df)
 - [Go Lang Test with Example](https://thomacelli.medium.com/go-lang-test-with-example-49faa673a637)
+  
 ## Livros
 
 - [Fácil Aprendizagem Estruturas De Dados e Algoritmos Go](https://www.amazon.com.br/F%C3%A1cil-Aprendizagem-Estruturas-Dados-Algoritmos-ebook/dp/B08RJCV3MN)
@@ -51,18 +53,23 @@ Repositório com diversos conteúdos relevantes para aprender sobre a linguagem 
 - [Aprenda Go / Golang (Curso Tutorial de Programação)](https://www.youtube.com/playlist?list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW)
 
 ## Podcasts (Episódios)
+
 #### Alura 
 - [Ecossistemas Golang- Hipsters Ponto Tech #296](https://www.alura.com.br/podcast/hipsterstech-ecossistemas-golang-hipsters-ponto-tech-296-a1453)
 - [A linguagem Go – Hipsters #67](https://www.hipsters.tech/linguagem-go-hipsters-67/)
 - [Go, gRPC e investimentos na Guru – Hipsters On The Road #54](https://www.hipsters.tech/go-grpc-e-investimentos-na-guru-hipsters-on-the-road-54/go-grpc-e-investimentos-na-guru-hipsters-on-the-road-54/)
 - [Go e transações financeiras no Bexs – Hipsters On The Road #46](https://www.hipsters.tech/go-e-transacoes-financeiras-no-bexs-hipsters-on-the-road-46/)
 
+#### 2Devs Podcast
+- [Linguagem Go com Cesar Gimenes](https://open.spotify.com/episode/3qGDXb7SLAQhLFeFi0UOiw)
+
 #### Castálio Podcast
 - [Episódio 86: Linguagem De Programação Go - Parte 1](https://castalio.info/episodes/episodio-86-linguagem-de-programacao-go-parte-1/)
 - [Episódio 87: Linguagem De Programação Go - Parte 2](https://castalio.info/episodes/episodio-87-linguagem-de-programacao-go-parte-2/)
+  
 #### Programação Falada
-
 - [Golang](https://podcasts.apple.com/br/podcast/programa%C3%A7%C3%A3o-falada-golang/id1502426269?i=1000468111386)
+  
 #### Grok Podcast
 - [Da onde saiu a #golang?](https://www.grokpodcast.com.br/2013/07/17/episodio-95-golang/)
 - [Multicore e pacotes](https://www.grokpodcast.com.br/2013/07/24/episodio-96-golang/)
@@ -72,12 +79,13 @@ Repositório com diversos conteúdos relevantes para aprender sobre a linguagem 
 
 
 ## Cursos gratuitos
-#### Udemy
 
+#### Udemy
 - [Aprenda a programar utilizando Go Lang ou Golang parte 1](https://www.udemy.com/course/aprenda-programacao-utilizando-go-lang/)
 - [Aprenda a programar utilizando Go Lang ou Golang parte 2](https://www.udemy.com/course/aprenda-programacao-utlizando-go-golang-parte-2/)
 
 ## Cursos pagos
+
 #### Udemy
 
 - [Aprenda Golang do Zero! Desenvolva uma APLICAÇÃO COMPLETA!](https://www.udemy.com/course/aprenda-golang-do-zero-desenvolva-uma-aplicacao-completa/)
@@ -93,6 +101,7 @@ Repositório com diversos conteúdos relevantes para aprender sobre a linguagem 
 - [Desenvolvendo uma API Rest](https://www.alura.com.br/curso-online-go-desenvolvendo-api-rest)
 - [Go e Gin: criando API rest com simplicidade](https://www.alura.com.br/curso-online-go-gin-api-rest-simplicidade)
 - [Validações, testes e páginas HTML](https://www.alura.com.br/curso-online-go-validacoes-testes-paginas-html)
+  
 #### DIO
 
 - [Formação Go Developer](https://www.dio.me/curso-golang?source=technologies-golang&utm_source=golang&utm_medium=technologies&utm_campaign=ds-Golang&utm_content=dio)
@@ -104,7 +113,7 @@ Repositório com diversos conteúdos relevantes para aprender sobre a linguagem 
 - [Utilizando Funções em Go](https://www.dio.me/courses/utilizando-funcoes-em-go?source=technologies-golang&utm_source=golang&utm_medium=technologies&utm_campaign=ds-Golang&utm_content=dio)
 - [Utilizando Pacotes em Go](https://www.dio.me/courses/utilizando-pacotes-em-go?source=technologies-golang&utm_source=golang&utm_medium=technologies&utm_campaign=ds-Golang&utm_content=dio)
 - [Concorrência em Go](https://www.dio.me/courses/concorrencia-em-go?source=technologies-golang&utm_source=golang&utm_medium=technologies&utm_campaign=ds-Golang&utm_content=dio)
--[Construindo um Servidor Estático com Go](https://www.dio.me/courses/construindo-um-servidor-estatico-com-go?source=technologies-golang&utm_source=golang&utm_medium=technologies&utm_campaign=ds-Golang&utm_content=dio)
+- [Construindo um Servidor Estático com Go](https://www.dio.me/courses/construindo-um-servidor-estatico-com-go?source=technologies-golang&utm_source=golang&utm_medium=technologies&utm_campaign=ds-Golang&utm_content=dio)
 - [Manipulando JSON](https://www.dio.me/courses/manipulando-json?source=technologies-golang&utm_source=golang&utm_medium=technologies&utm_campaign=ds-Golang&utm_content=dio)
 - [Consumindo uma API Rest em Go](https://www.dio.me/courses/consumindo-uma-api-rest-em-go?source=technologies-golang&utm_source=golang&utm_medium=technologies&utm_campaign=ds-Golang&utm_content=dio)
 - [Introdução aos Testes Unitários em Go](https://www.dio.me/courses/introducao-aos-testes-unitarios-em-go?source=technologies-golang&utm_source=golang&utm_medium=technologies&utm_campaign=ds-Golang&utm_content=dio)
