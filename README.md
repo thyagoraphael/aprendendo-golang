@@ -18,6 +18,12 @@ Repositório com diversos conteúdos relevantes para aprender sobre a linguagem 
 - [Go by Example](https://gobyexample.com/)
 - [Curso de introdução a programação Go com base em testes](https://larien.gitbook.io/aprenda-go-com-testes/)
   
+## Utils
+
+- [Layout padrão de projetos em Go](https://github.com/golang-standards/project-layout/blob/master/README_ptBR.md)
+- [Padrões de Projeto em Go](https://refactoring.guru/pt-br/design-patterns/go)
+- [Empresas que utilizam Go](https://github.com/golang/go/wiki/GoUsers#brazil)
+- [JSON to Go](https://transform.tools/json-to-go)
 ## Tutoriais
 
 ## Blogs
